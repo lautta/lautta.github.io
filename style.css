@@ -18,8 +18,8 @@ body {
   font-family: "Work Sans", sans-serif;
   display: block !important;
 
-  font-size: 3.85vw;
-  line-height: 3.85vw;
+  font-size: 4vw;
+  line-height: 4.1vw;
   font-variant-ligatures: normal;
 }
 
@@ -49,7 +49,6 @@ h1 {
 
 .text a:hover {
   text-decoration: none;
-  background: black;
 }
 
 .text a:focus {
